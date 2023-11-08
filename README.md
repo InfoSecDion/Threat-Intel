@@ -8,7 +8,7 @@ This lab functions as documentation of a technical exercise I undertook as part 
 
 Their company had established a partnership with the Tryhackme.com platform to evaluate the technical skills of potential candidates in the field of threat intelligence.<br />
 
-<h2>Instructions </h2>
+<h2>Guidelines/Instructions </h2>
 
 - You have 24 hours to complete the challenge and answer as many questions correctly as possible.
 

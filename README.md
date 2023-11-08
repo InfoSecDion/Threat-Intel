@@ -11,7 +11,7 @@ Their company had established a partnership with the Tryhackme.com platform to e
 <h2>Instructions </h2>
 
 - You have 24 hours to complete the challenge and answer as many questions correctly as possible.
-- 
+
 - The points you earn by the end of this time will be taken into consideration for advancing to the next stage of the interview process.
 
 <h2>Operating Systems Used </h2>

@@ -28,4 +28,14 @@ Applicants should endeavor to explain not only what steps they took but their th
 
 - It is recommended the report be well edited, complete, to the standards specified above, and provided as an attachment as outlined below.
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Task 1: Visit this image and answer the question below: </h2>
+
+- In what city was the picture taken?
+
+
+For this specific question, my approach was to determine the location where the picture was taken. To do this, I decided to narrow down my search to cities worldwide that began with the letters "c-a-r."
+Steps:
+1. I initiated a Google search to compile a list of cities that started with these three letters.
+2. Upon discovering a website named "wordmom.com" through Google, I noticed a substantial number of cities with this initial sequence.
+3. Faced with numerous possibilities and no clear answer, I further refined my search criteria by focusing on cities featuring both a prominent tower and iguanas. At this point, I sought assistance from ChatGPT to achieve a more succinct resolution.
+4. ChatGPT suggested that the city I was likely looking for is "Cartagena." This turned out to be the correct answer when I entered it into the response box.

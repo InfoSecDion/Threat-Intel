@@ -16,8 +16,9 @@ Their company had established a partnership with the Tryhackme.com platform to e
 
 <h2>Exercise Completion Process </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+- The exercise consists of 4 Obiectives that are at the core of the work we do at _____. You should do your best to answer all questions. Minimum score for advancement to the next stage of the interview process is 50% or 100 points. In addition, you must have answered at least 1 question from 3 of the Objectives.
+
+- The test is open internet. All these questions are solvable and possible through research, creativity and attention to detail. You may use Google and other search engines as a resource to answer any of the questions.
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 

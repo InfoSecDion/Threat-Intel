@@ -8,13 +8,13 @@ This lab functions as documentation of a technical exercise I undertook as part 
 
 Their company had established a partnership with the Tryhackme.com platform to evaluate the technical skills of potential candidates in the field of threat intelligence.<br />
 
-<h2>Guidelines/Instructions </h2>
+<h2>Guidelines/Instructions</h2>
 
 - You have 24 hours to complete the challenge and answer as many questions correctly as possible.
 
 - The points you earn by the end of this time will be taken into consideration for advancing to the next stage of the interview process.
 
-<h2>Exercise Completion Process </h2>
+<h2>Exercise Completion Process</h2>
 
 - The exercise consists of 4 Obiectives that are at the core of the work we do at _____. You should do your best to answer all questions. Minimum score for advancement to the next stage of the interview process is 50% or 100 points. In addition, you must have answered at least 1 question from 3 of the Objectives.
 
@@ -28,7 +28,7 @@ Applicants should endeavor to explain not only what steps they took but their th
 
 - It is recommended the report be well edited, complete, to the standards specified above, and provided as an attachment as outlined below.
 
-<h2>Task 1: Visit this image and answer the question below: </h2>
+<h2>Task 1: Visit this image and answer the question below:</h2>
 
 - Q1. In what city was the picture taken?
 
@@ -44,7 +44,7 @@ Steps:
 ![IMG_8960](https://github.com/InfoSecDion/Threat-Intel/assets/105241007/70273355-cb25-4bfc-aa4d-b0654c9f3b14)
 
 
-<h1>Task 2: Visit this video and based on it answer the questions below: </h1>
+<h1>Task 2: Visit this video and based on it answer the questions below:</h1>
 
 ![IMG_8961](https://github.com/InfoSecDion/Threat-Intel/assets/105241007/92322e34-6466-4813-af14-2f8f473b03ab)
 
@@ -86,7 +86,7 @@ Similarly, I was unable to find the answer to the sixth question. I had thought 
 
 ![IMG_8963 2](https://github.com/InfoSecDion/Threat-Intel/assets/105241007/a93f6b73-81b5-4964-9b5a-5209a58767fb)
 
-<h2>Task 3: Visit this site and answer the questions below: Let's Play A Game </h2>
+<h2>Task 3: Visit this site and answer the questions below: Let's Play A Game</h2>
 
 ![IMG_8965](https://github.com/InfoSecDion/Threat-Intel/assets/105241007/9b8660b2-c4b2-4d07-bfd2-21cc00418e0d)
 
@@ -117,7 +117,7 @@ This question posed a challenge for me as it was my first encounter with the ter
 
 ![IMG_8964 4](https://github.com/InfoSecDion/Threat-Intel/assets/105241007/613302b5-82ac-4bf6-bc06-4ff546236489)
 
-<h2>Task 4: The dark web is a mysterious place to many but those in the Tower feel quite comfortable there.</h2>
+<h2>Task 4: The dark web is a mysterious place to many but those in the Tower feel quite comfortable there</h2>
 
 - Q1. What is the web address of the CIA's dark web portal?
 

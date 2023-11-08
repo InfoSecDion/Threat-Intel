@@ -20,10 +20,12 @@ Their company had established a partnership with the Tryhackme.com platform to e
 
 - The test is open internet. All these questions are solvable and possible through research, creativity and attention to detail. You may use Google and other search engines as a resource to answer any of the questions.
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Post Exercise Report</h2>
 
-- A-Record Exercise
-- Local DNS Cache Exercise
-- CNAME Record Exercise
+- After completion of the exercise a written report of 500-1000 words should be compiled in a document format
+(PDF or Word). This report should include methodology on how each question of the exercise was completed.
+Applicants should endeavor to explain not only what steps they took but their thought process on the completion of the exercise.
+
+- It is recommended the report be well edited, complete, to the standards specified above, and provided as an attachment as outlined below.
 
 <h2>Deployment and Configuration Steps</h2>

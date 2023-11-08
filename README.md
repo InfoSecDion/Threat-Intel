@@ -32,6 +32,7 @@ Applicants should endeavor to explain not only what steps they took but their th
 
 - In what city was the picture taken?
 
+![IMG_8959](https://github.com/InfoSecDion/Threat-Intel/assets/105241007/fa39ff72-e9bd-42da-a7f8-abd4aa3a1aad)
 
 For this specific question, my approach was to determine the location where the picture was taken. To do this, I decided to narrow down my search to cities worldwide that began with the letters "c-a-r."
 Steps:

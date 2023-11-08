@@ -4,7 +4,9 @@
 ![IMG_8981](https://github.com/InfoSecDion/Threat-Intel/assets/105241007/320f3dc0-2118-4044-a757-4bb412072883)
 
 <h1>Introduction</h1>
-This tutorial outlines the implementation of DNS settings within Azure Virtual Machines.<br />
+This lab functions as documentation of a technical exercise I undertook as part of my application for a threat intelligence analyst position. It was the most enjoyable experience I've had during any hiring process. You have 24 hours to complete the challenge and answer as many questions correctly as possible. The points you earn by the end of this time will be taken into consideration for advancing to the next stage of the interview process.
+
+Their company had established a partnership with the Tryhackme.com platform to evaluate the technical skills of potential candidates in the field of threat intelligence.<br />
 
 <h2>Environments and Technologies Used</h2>
 

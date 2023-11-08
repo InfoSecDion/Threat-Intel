@@ -14,7 +14,7 @@ Their company had established a partnership with the Tryhackme.com platform to e
 
 - The points you earn by the end of this time will be taken into consideration for advancing to the next stage of the interview process.
 
-<h2>Operating Systems Used </h2>
+<h2>Exercise Completion Process </h2>
 
 - Windows Server 2022
 - Windows 10 (21H2)

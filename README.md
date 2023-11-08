@@ -137,6 +137,8 @@ I recalled the answer to this question from my CompTIA Security+ studies, allowi
 
 ![IMG_8966 3](https://github.com/InfoSecDion/Threat-Intel/assets/105241007/7893058e-f220-4127-9abb-c4131b4bef52)
 
+## Conclusion
+
 I completed 12/14 questions in total and finished at 86/100%, which did grant me advancement to the next stage of the interview process.
 
 In summary, this experience was the most enjoyable I've ever had in any interview setting and served as an excellent introduction to OSINT. It encouraged me to think creatively and outside the box while also enhancing my knowledge. I would rate this technical interview experience 10/10.

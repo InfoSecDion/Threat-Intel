@@ -4,29 +4,27 @@
 ![IMG_8981](https://github.com/InfoSecDion/Threat-Intel/assets/105241007/320f3dc0-2118-4044-a757-4bb412072883)
 
 <h1>Introduction</h1>
-This lab functions as documentation of a technical exercise I undertook as part of my application for a threat intelligence analyst position. It was the most enjoyable experience I've had during any hiring process.
+This lab serves as documentation of a technical exercise I undertook as part of my application for a threat intelligence analyst position. It was the most enjoyable experience I've had during a hiring process.
 
-Their company had established a partnership with the Tryhackme.com platform to evaluate the technical skills of potential candidates in the field of threat intelligence.<br />
+The company had established a partnership with the TryHackMe.com platform to evaluate the technical skills of potential candidates in the field of threat intelligence.<br />
 
 <h2>Guidelines/Instructions</h2>
 
-- You have 24 hours to complete the challenge and answer as many questions correctly as possible.
+- The candidate has 24 hours to complete the challenge and answer as many questions correctly as possible.
 
 - The points you earn by the end of this time will be taken into consideration for advancing to the next stage of the interview process.
 
 <h2>Exercise Completion Process</h2>
 
-- The exercise consists of 4 Obiectives that are at the core of the work we do at _____. You should do your best to answer all questions. Minimum score for advancement to the next stage of the interview process is 50% or 100 points. In addition, you must have answered at least 1 question from 3 of the Objectives.
+- The exercise consists of four objectives that are at the core of the work we do at _____. You should do your best to answer all questions. The minimum score for advancement to the next stage of the interview process is 50% or 100 points. Additionally, you must have answered at least one question from three of the objectives.
 
-- The test is open internet. All these questions are solvable and possible through research, creativity and attention to detail. You may use Google and other search engines as a resource to answer any of the questions.
+- The test is open to the internet. All of these questions are solvable and possible through research, creativity, and attention to detail. You may use Google and other search engines as resources to answer any of the questions.
 
 <h2>Post Exercise Report</h2>
 
-- After completion of the exercise a written report of 500-1000 words should be compiled in a document format
-(PDF or Word). This report should include methodology on how each question of the exercise was completed.
-Applicants should endeavor to explain not only what steps they took but their thought process on the completion of the exercise.
+- After completion of the exercise, a written report of 500-1000 words should be compiled in a document format (PDF or Word). This report should include the methodology on how each question of the exercise was completed. Applicants should endeavor to explain not only the steps they took but also their thought process regarding the completion of the exercise.
 
-- It is recommended the report be well edited, complete, to the standards specified above, and provided as an attachment as outlined below.
+- It is recommended that the report be well-edited, complete, meeting the standards specified above, and provided as an attachment as outlined below.
 
 <h2>Task 1: Visit this image and answer the question below:</h2>
 
@@ -35,6 +33,7 @@ Applicants should endeavor to explain not only what steps they took but their th
 ![IMG_8959](https://github.com/InfoSecDion/Threat-Intel/assets/105241007/fa39ff72-e9bd-42da-a7f8-abd4aa3a1aad)
 
 For this specific question, my approach was to determine the location where the picture was taken. To do this, I decided to narrow down my search to cities worldwide that began with the letters "c-a-r."
+
 Steps:
 1. I initiated a Google search to compile a list of cities that started with these three letters.
 2. Upon discovering a website named "wordmom.com" through Google, I noticed a substantial number of cities with this initial sequence.
